@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hello, I am Nguyen Van Huy, a recent graduate. Thank you for visiting my page.<br>
+Hello, My name Nguyen Van Huy, a recent graduate. Thank you for visiting my page.<br>
 
 
 # 💻 Tech Stack:
