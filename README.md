@@ -19,7 +19,7 @@ Hello, My name Nguyen Van Huy, a recent graduate. Thank you for visiting my page
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Huynguyen2002TB&repo=HuyFood&theme=radical" />
 </a>    
 
-![Huy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Huynguyen2002TB&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Huynguyen2002TB&icon=0&color=0)](https://visitcount.itsvg.in)
 
