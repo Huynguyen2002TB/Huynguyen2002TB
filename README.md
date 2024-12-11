@@ -6,7 +6,7 @@ Hello, My name Nguyen Van Huy, a recent graduate. Thank you for visiting my page
 
 <a href="https://github.com/Huynguyen2002TB/AndroidAppFoodOrder/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Huynguyen2002TB&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Huynguyen2002TB&repo=HuyFood&theme=radical" />
 </a>    
 
 ![Huy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Huynguyen2002TB&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
