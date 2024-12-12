@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hello, My name Nguyen Van Huy, a recent graduate. Thank you for visiting my page.<br>
+Hello, My name Nguyen Van Huy a recent graduate. Thank you for visiting my page.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100024547154699) 
